@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DJKFifou (Maxime LUST)
-- 👀 I’m interested in Front-End Web Developpement
-- 🌱 I’m currently learning Javascript (React.js...)
+- 👀 I’m a Junior Front-End Web Developer at Mink (Piment.io)
+- 🌱 I’m currently learning React.js/Next.js
 - 📫 How to reach me : https://www.maximelust.fr / https://www.linkedin.com/in/maxime-lust/
 
 <!---
