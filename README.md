@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DJKFifou (Maxime LUST)
-- 👀 I’m a Junior Front-End Web Developer at Mink (Piment.io)
-- 🌱 I’m currently learning Javascript Frameworks like React.js/Next.js and Svelte.js
+- 👀 I’m a Junior Web Developer at Favoreat Design
+- 🌱 I’m currently learning Javascript Frameworks like React/Next, Vue and Svelte
 - 📫 How to reach me : https://www.maximelust.fr / https://www.linkedin.com/in/maxime-lust/
 
 <!---
