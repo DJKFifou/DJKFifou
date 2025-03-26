@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @DJKFifou (Maxime LUST)
+- 👋 Hi, I’m @DJKFifou (Maxime Lust)
 - 👀 I’m a Junior Web Developer at Favoreat Design
-- 🌱 I’m currently learning Javascript Frameworks like React/Next, Svelte/Svelte-Kit and also PHP & MySQL
+- 🌱 I’m currently deeping Javascript Frameworks like React/Next, Svelte/Svelte-Kit
+- 🧑‍💻 Often developing E-commerce (WooCommerce/Shopify), Web App or Web Sites
 - 📫 How to reach me : https://www.linkedin.com/in/maxime-lust/
 
 <!---
