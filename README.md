@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DJKFifou (Maxime Lust)
 - 👀 I’m a Junior Web Developer at Favoreat Design
-- 🌱 I’m currently deeping Javascript Frameworks like React/Next, Svelte/Svelte-Kit
+- 🌱 I’m currently deeping Javascript Frameworks like React/Next, Svelte/SvelteKit
 - 🧑‍💻 Often developing Web Sites, Web Apps, JS Games or E-commerce (WooCommerce/Shopify)
 - 📫 How to reach me :
     - https://maximelust.fr
