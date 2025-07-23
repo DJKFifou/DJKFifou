@@ -2,7 +2,9 @@
 - 👀 I’m a Junior Web Developer at Favoreat Design
 - 🌱 I’m currently deeping Javascript Frameworks like React/Next, Svelte/Svelte-Kit
 - 🧑‍💻 Often developing Web Sites, Web Apps, JS Games or E-commerce (WooCommerce/Shopify)
-- 📫 How to reach me : https://www.linkedin.com/in/maxime-lust/
+- 📫 How to reach me :
+    - https://maximelust.fr
+    - https://www.linkedin.com/in/maxime-lust/
 
 <!---
 DJKFifou/DJKFifou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
